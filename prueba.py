@@ -1,13 +1,9 @@
 print("Probando Git!")
 
 # Commit 2 (B)
-print("Programacion basura!")
+print("Programación basura!") # Commit 3: Tilde añadida xP
 
-# Commit 4 (B)
-print("Pero yo estaba trabajando en remoto también ;-;")
-
-# Commit 6 (B)
-print("Por aquí yo seguía trabajando en remoto ;-;")
-
-def cosas():
-	# Ya se sigue mañana 
+# Commit 5
+def pruebasGit():
+	while(1==1):
+		print("Juejeuaeuje")
