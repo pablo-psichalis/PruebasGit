@@ -9,8 +9,13 @@ def pruebasGit():
 		print("Juejeuaeuje")
 		
 # Feature: Adding crap
-def crap(crap):
+def addCrap(crap):
 	crap++
+	return crap	
+
+def decrementCrap(crap):
+	crap--
 	return crap
+
 	
 		
