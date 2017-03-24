@@ -18,4 +18,9 @@ def decrementCrap(crap):
 	return crap
 
 	
-		
+# Feature: Git gud
+def gitGud(isGud):
+	if(isGud):
+		return True
+	else:
+		return False
