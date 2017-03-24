@@ -7,3 +7,10 @@ print("Programación basura!") # Commit 3: Tilde añadida xP
 def pruebasGit():
 	while(1==1):
 		print("Juejeuaeuje")
+		
+# Feature: Adding crap
+def crap(crap):
+	crap++
+	return crap
+	
+		
